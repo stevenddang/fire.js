@@ -1,25 +1,25 @@
 {
-  "name": "financejs",
-  "version": "4.1.0",
-  "description": "A JavaScript library for financial calculations",
-  "main": "finance.js",
+  "name": "firejs",
+  "version": "0.0.1",
+  "description": "A JavaScript library to calculate your personal finances",
+  "main": "fire.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/essamjoubori/finance.js.git"
+    "url": "https://github.com/stevenddang/fire.js.git"
   },
   "keywords": [
     "finance",
     "javaScript",
-    "financejs",
-    "finance.js"
+    "firejs",
+    "fire.js"
   ],
-  "author": "Essam Al Joubori <essam.joubori@gmail.com> (http://essam.io)",
+  "author": "Steven Dang <steven.d.dang@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/essamjoubori/finance.js/issues"
+    "url": "https://github.com/stevenddang/fire.js/issues"
   },
   "typescript": {
     "definition": "index.d.ts"
